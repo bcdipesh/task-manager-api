@@ -1,12 +1,12 @@
 # Task Manager REST API
 
-This api serves as a backend server for task-manager-frontend application.
+This api serves as a backend server for [task-manager-frontend](https://github.com/bc-dipesh/task-manager-frontend) application.
 
 ---
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
+For development, you will only need Node.js and npm.
 
 ### Node
 
