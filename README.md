@@ -1,4 +1,4 @@
-# Project Title
+# Task Manager REST API
 
 This api serves as a backend server for task-manager-frontend application.
 
@@ -39,19 +39,13 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ###
 
-### Yarn installation
-
-After installing node, this project will need yarn too, so just run the following command.
-
-      $ npm install -g yarn
-
 ---
 
 ## Install
 
     $ git clone https://github.com/bc-dipesh/task-manager-api
     $ cd task-manager-api
-    $ yarn install
+    $ npm install
 
 ## Configure app
 
@@ -62,5 +56,7 @@ Open `config` folder and add a file named `config.env` then edit it with your se
 
 ## Running the project
 
-    $ npm run dev for development
-    $ npm run start for production
+    - For Development
+    $ npm run dev
+    - For Production
+    $ npm run start
